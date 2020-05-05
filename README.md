@@ -1,2 +1,2 @@
-# Coursersa_Capstone
+# IBM Data Science Content
 IBM_Data_Science_Professional_Certificate_Coursera
